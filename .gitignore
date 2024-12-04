@@ -1,3 +1,5 @@
+test.qmd
+
 #ignore the '.ipynb_checkpoints' directory
 .ipynb_checkpoints/
 
